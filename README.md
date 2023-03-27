@@ -3,7 +3,7 @@
 <p>
 Hi! My name is Bulcsú Veres. I'm a second year student at Babeș-Bólyai University working on my Bachelor's Degree in the field of Computer Science.</p>
 
-<p>I aspire to become a great software engineer.</p>
+<p>I aspire to become a great software developer.</p>
 
 ## Domains of computer science that I'm interested in:
 <ul>
@@ -14,11 +14,11 @@ Hi! My name is Bulcsú Veres. I'm a second year student at Babeș-Bólyai Univer
 </ul>
 
 ## Programming languages I've used:
-<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-<img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img alt="Haskell" src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" />
+<img align="left" alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img align="left" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+<img align="left" alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img align="left" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img align="left" alt="Haskell" src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" />
 <img alt="Bash" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
 ## Technologies I have used / heard about:
