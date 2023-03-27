@@ -1,7 +1,7 @@
 # Hi there I'm Bulcsú <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 <p>
-Hi! My name is Bulcsú Veres. I'm a second year student at Babeș-Bólyai University working on my Bachelor's Degree in the field of Computer Science.</p>
+Hi! My name is Bulcsú Veres. I'm a second year student at Babeș-Bolyai University working on my Bachelor's Degree in the field of Computer Science.</p>
 
 <p>I aspire to become a great software developer.</p>
 
