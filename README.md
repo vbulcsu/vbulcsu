@@ -7,7 +7,7 @@ Hi! My name is Bulcsú Veres. I'm a second year student at Babeș-Bolyai Univers
 
 ## Reach me out:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/veres.bulcsu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bulcs%C3%BA-veres-712333270)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bulcsu-veres/)
 
 ## Domains of computer science that I'm interested in:
 <ul>
