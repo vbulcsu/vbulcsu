@@ -57,4 +57,4 @@ Hi! My name is Bulcsú Veres. I'm a second year student at Babeș-Bolyai Univers
 
 ## My GitHub stats:
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=vbulcsu&show_icons=true&theme=radical" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbulcsu&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbulcsu&layout=compact&theme=radical" />
