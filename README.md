@@ -53,12 +53,14 @@ Hi! My name is Bulcsú Veres. I'm a second year student at Babeș-Bolyai Univers
 ## Projects I have worked on:
 <ul>
     <li>Basic database management system <i>(C#)</i></li>
+    <li>Raytracer <i>(C++)</i></li>
     <li>Flappy bird <i>(Java)</i></li>
-    <li>Graphics engine - OpenGL tutorial <i>(C++)</i></li>
     <li>Chess <i>(C++)</i></li>
     <li>Other smaller games <i>(C++)</i></li>
 </ul>
 
 ## My GitHub stats:
+[![](https://visitcount.itsvg.in/api?id=vbulcsu&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
+<br><br>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=vbulcsu&show_icons=true&theme=radical" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbulcsu&layout=compact&theme=radical" />
