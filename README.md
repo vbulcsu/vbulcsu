@@ -1,21 +1,29 @@
 # Hi there I'm Bulcsú <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
-
-<p>
-Hi! My name is Bulcsú Veres. I'm a second year student at Babeș-Bolyai University working on my Bachelor's Degree in the field of Computer Science.</p>
-
-<p>I aspire to become a great software developer.</p>
+I am a Data Engineer intern @ Bosch
 
 ## Reach me out:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/veres.bulcsu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bulcsu-veres/)
 
-## Domains of computer science that I'm interested in:
-<ul>
-    <li>Systems engineering / embedded software</li>
-    <li>Machine learning and computer vision</li>
-    <li>Data engineering</li>
-    <li>General software development</li>
-</ul>
+## I have experience in the following domains:
+- Data Engineering
+- Embedded Software Development
+- Deep Learning
+
+## I am familiar with these technologies:
+- Data Engineering <br/>
+  ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
+  ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+- Deep Learning <br/>
+  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+- Other frameworks and libraries <br/>
+  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+  ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
 
 ## Programming languages I've used:
 <img align="left" alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -25,39 +33,13 @@ Hi! My name is Bulcsú Veres. I'm a second year student at Babeș-Bolyai Univers
 <img align="left" alt="Haskell" src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" />
 <img alt="Bash" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
-## Technologies I have used / heard about:
-<ul>
-    <li>
-        Machine learning:
-        <br>
-        <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-        <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
-        <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-    </li>
-    <li>
-        Database management:
-        <br>
-        <img alt="MS SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
-        <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-        <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-    </li>
-    <li>
-        Frameworks, platforms and libraries:
-        <br>
-        <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-        <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
-        <img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl" />
-    </li>
-</ul>
-
 ## Projects I have worked on:
-<ul>
-    <li>Basic database management system <i>(C#)</i></li>
-    <li>Raytracer <i>(C++)</i></li>
-    <li>Flappy bird <i>(Java)</i></li>
-    <li>Chess <i>(C++)</i></li>
-    <li>Other smaller games <i>(C++)</i></li>
-</ul>
+- Enhancing neural network performance through quantization
+- Basic database management system
+- Raytracer
+- Flappy bird
+- Chess
+- Other smaller games
 
 ## My GitHub stats:
 [![](https://visitcount.itsvg.in/api?id=vbulcsu&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
